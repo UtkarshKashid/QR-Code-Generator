@@ -36,6 +36,13 @@ This project is ideal for beginners who want hands-on practice with DOM manipula
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **Project Demo:**  
+https://utkarshkashid.github.io/QR-Code-Generator/
+
+---
+
 ## 📸 Screenshots
 
 ### 🔹 Initial Screen
