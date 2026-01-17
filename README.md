@@ -56,12 +56,6 @@ https://utkarshkashid.github.io/QR-Code-Generator/
 
 ## 👤 Author
 
-**Utkarsh Kashid**  
-First-Year Computer Engineering Student  
-
----
-
-## 🤝 Feel Free to Contribute
-
+**Utkarsh Kashid**   
 Feel free to fork this project, suggest improvements, add new features, or enhance the UI.  
-Contributions are always welcome! 🚀
+Contributions are always welcome! 🤝 
